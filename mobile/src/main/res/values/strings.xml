@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Lunch@CERN</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings">Paramètres</string>
+
+    <string name="resto_1">Menu du Restaurant 1</string>
+
+    <string name="friday">Vendredi</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+</resources>
